@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7, #dd1264);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.button {
+  width: 120px;
+  height: 50px;
+  border-radius: 10px;
+  border-style: none;
+}
+.margin {
+  margin-left: 50px;
+}
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+.name {
+  width: 80px;
+  height: 50px;
+  background-color: #fddddb;
+  padding: 11px;
+  border-radius: 10px;
+  text-align: center;
+}
+.joe {
+  margin-left: 15px;
+}
+.jonas {
+  margin-left: 70px;
+}
+/*.sub-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}*/
